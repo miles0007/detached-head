@@ -1,1 +1,3 @@
 Hello, Detached Head
+
+New Line in this file
